@@ -1,0 +1,1 @@
+{ "name": "Metamorph Immortal Engine", "version": "1.0", "files": ["main.cpp", "ai_engine.cpp", "npc_behavior.cpp", "emotion_core.cpp", "economy_sim.cpp", "relationship_system.cpp", "government_system.cpp", "destiny_engine.cpp", "space_expansion.cpp", "dream_system.cpp", "voice_module.cpp", "housing_simulation.cpp", "multiplayer_portal.cpp", "timeline_tracker.cpp"] }
